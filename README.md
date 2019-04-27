@@ -9,7 +9,7 @@ Provide distributed online chat system.
 
 ## Desgin and algorithm used
 
-Replication: Passive Replication
+Replication: Passive Replication, Bully Algo to elect.
 
 Graph algo: Dijkstra, Kruskal, Bellmon ford
 
