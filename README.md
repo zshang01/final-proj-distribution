@@ -11,7 +11,7 @@ Provide distributed online chat system.
 
 Replication: Passive Replication
 
-Graph algo: Dijkstra, Kruskal
+Graph algo: Dijkstra, Kruskal, Bellmon ford
 
 Desing: p2p (Each Router acted as a media and clients will register on each Router base on specific algo here it is Round Robin) The message send from each client will base on the result of Dijkstra and Kruskal to find the minimum cost and send the mesage
 
